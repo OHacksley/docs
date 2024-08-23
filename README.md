@@ -1,7 +1,7 @@
 # docs
 Тестовая документация  
 Checklist ДЗ№7  
-https://docs.google.com/spreadsheets/d/1p0FheN-kGOgVGPUVlfXCAyHfSW-q9Fezbj4ikZaC3Y0/edit?usp=sharing  
+https://docs.google.com/spreadsheets/d/1mHx3_W06LIRCLMy9S7332iOEgkSJtT8HhPU0oRtWsZw/edit?usp=sharing  
 Ссылка на тестовый набор в QASE:  
 https://app.qase.io/project/G7?view=2&tab=&previewMode=side&suite=129  
 Сыллка на коммит с 2 файлами тестовых наборов в QASE (1- регистрации и авторизации, 2 - каталога продуктов)  
